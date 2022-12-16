@@ -1,5 +1,5 @@
 select *
-from project_2.dbo.nashville_housing$
+from project_2.dbo.nashville_housing$;
 
 --- standardize data format
 
